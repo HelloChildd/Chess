@@ -1,6 +1,6 @@
 # Chess
 Chess using streamlit against a chess bot. There is checkmates, stalemates, castlilng, chess logic,  and promoting. I added the zipped file if you want it.
-Follow these steps:
+If you want to run the program, follow these steps. You need homebrew and npm for this to work. Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
