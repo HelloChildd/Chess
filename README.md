@@ -1,5 +1,5 @@
 # Chess
-Chess using streamlit against a chess bot. There is checkmates, stalemates, castlilng, chess logic,  and promoting. 
+Chess using streamlit against a chess bot. There is checkmates, stalemates, castlilng, chess logic,  and promoting. I added the zipped file if you want it.
 Follow these steps:
 
 ```sh
